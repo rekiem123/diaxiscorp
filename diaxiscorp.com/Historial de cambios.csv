@@ -1,0 +1,29 @@
+N	FECHA	PROYECTO	ARCHIVO	LINEA	SECCION	INICIO	FINAL	COMENTARIO
+1	11/06/2015	diaxiscorp	style.css	4583	RESPONSIVE STYLE	(max-width: 949px)	(max-width: 850px)	Cambiar el responsive, al reducir ventana cambia a muy poca distancia de reducir la ventana
+2	12/06/2015	diaxiscorp	style.css	3108	SLOGAN	"font-size:18px;"	"font-size:22px;"	Cambiar tamaño de letra en el texto_1 del slogan
+3	12/06/2015	diaxiscorp	style.css	3108	SLOGAN	"font-size:15px;"	"font-size:18px;"	Cambiar tamaño de letra en el texto_2 del slogan
+4	13/06/2015	diaxiscorp	style.css	3095	SLOGAN	"margin-top:-103px;"	"margin-top:-76px;"	Cambiar posición del slogan(bajarlo)
+5	13/06/2015	diaxiscorp	style.css	3097	SLOGAN	"padding-top: 15px;"	"padding-top: 10px;"	Cambiar alto de Slogan
+6	13/06/2015	diaxiscorp	style.css	3090	SLOGAN	"padding-bottom: 15px;"	"padding-bottom: 10px;"	Cambiar alto de Slogan
+7	13/06/2015	diaxiscorp	index.html	208	CONTENT BEGIN	"style=""margin:0px 0px 10px;"	"style=""margin:0px 0px -30px;"	Reducir la altura de los iconos de servicio con respecto al slogan
+8	15/06/2015	diaxiscorp	style.css	4303	SERVICE	"width:220px;"	"width:140px;"	Alojar 6 elementos en vez de solo 4 en la sección de servicios de la página principal
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
